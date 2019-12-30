@@ -1,4 +1,4 @@
-# torch_light
+# Torch_Light
 
 A new Flutter project.
 
